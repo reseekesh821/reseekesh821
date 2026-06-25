@@ -47,7 +47,7 @@ Currently seeking **Software Engineering** and **AI/ML Engineering** internship 
 
 ## 🤝 Let's Connect!
 *   💼 **LinkedIn:** [https://www.linkedin.com/in/rbastakoti1]
-*   🌐 **Live Portfolio:** [rishikeshbastakoti.vercel.app]
+*   🌐 **Live Portfolio:** [https://rishikeshbastakoti.vercel.app/]
 *   ✉️ **Email:** [rishikeshbastakoti2004@gmail.com]
 
 ---
