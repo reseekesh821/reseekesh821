@@ -1,8 +1,16 @@
-# Hi there, I'm Rishikesh Bastakoti 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&width=600&lines=Hi+there,+I'm+Rishikesh+Bastakoti+%F0%9F%91%8B;Software+Engineer;AI%2FML+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+  </a>
+</div>
 
 I am a Computer Science student at **Caldwell University**, interested in software development, backend architectures, and **AI Engineering**. I wanna bridge the gap between traditional software engineering and intelligent systems—combining robust API frameworks with deterministic logic, machine learning models, and large language models (LLMs).
 
 Currently seeking **Software Engineering** and **AI/ML Engineering** internship opportunities.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reseekesh821&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 ---
 
@@ -53,4 +61,10 @@ Currently seeking **Software Engineering** and **AI/ML Engineering** internship 
 ---
 *⭐️ Feel free to star my repositories if you find my research or implementation work interesting!*
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reseekesh821/reseekesh821/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reseekesh821/reseekesh821/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reseekesh821/reseekesh821/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
