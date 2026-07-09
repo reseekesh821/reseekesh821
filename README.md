@@ -9,7 +9,7 @@ I am a Computer Science student at **Caldwell University**, interested in softwa
 Currently seeking **Software Engineering** and **AI/ML Engineering** internship opportunities.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reseekesh821&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reseekesh821&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 ---
